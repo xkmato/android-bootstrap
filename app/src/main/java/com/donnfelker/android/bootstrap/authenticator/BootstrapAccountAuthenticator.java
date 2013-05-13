@@ -17,6 +17,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import com.donnfelker.android.bootstrap.core.Constants;
+import com.donnfelker.android.bootstrap.util.Ln;
 
 class BootstrapAccountAuthenticator extends AbstractAccountAuthenticator {
 
