@@ -8,7 +8,7 @@ to report any bugs or feature requests and to see the list of known issues.
 
 Have a questions about Android Bootstrap? Ask away on the [android-bootstrap discussion forum](https://groups.google.com/forum/#!forum/android-bootstrap). 
 
-<a href="https://play.google.com/store/apps/details?id=com.donnfelker.android.bootSome fo thestrap" alt="Download from Google Play">
+<a href="https://play.google.com/store/apps/details?id=com.donnfelker.android.bootstrap" alt="Download from Google Play">
   <img src="http://f.cl.ly/items/000s3k2I2J1V281X2A1f/bootstrap-image.png">
 </a>
 
