@@ -107,6 +107,7 @@ and uses many great open-source libraries from the Android dev community:
   for swiping between fragments and
   [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) for 
   view animations - all from [Jake Wharton](http://jakewharton.com/).
+* [MenuDrawer](https://github.com/SimonVT/android-menudrawer) for the menu drawer navigation.
 * [Dagger](https://github.com/square/dagger) for dependency-injection.
 * [ButterKnife](https://github.com/JakeWharton/butterknife) for view injection
 * [Otto](https://github.com/square/otto) as the event bus
