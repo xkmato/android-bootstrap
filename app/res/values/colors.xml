@@ -34,7 +34,12 @@
     <color name="button_background_disabled_start">#7b7b7b</color>
     <color name="button_background_disabled_end">#646464</color>
     <color name="text_shadow">#000000</color>
-
+    <color name="vert_sep_color">#222222</color>
     <color name="background_selected">#1fb6ed</color>
+    <color name="nav_button_text_light">#A6A6A6</color>
+    <color name="nav_button_pressed">#5A5A5A</color>
+    <color name="nav_button_disabled">#252525</color>
+    <color name="nav_button_text_disabled">#464646</color>
+    <color name="nav_background">#2f2f2f</color>
 
 </resources>
